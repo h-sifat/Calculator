@@ -1,0 +1,48 @@
+main{
+  width: 380px;
+  height: 490px;
+  border-radius: 2%;
+  padding: 1%;
+  margin: 1% auto;
+  background-color: rgb(116, 113, 113);
+}
+
+div h1{
+  padding: 1%;
+  background-color: white;
+  margin: 0;
+  text-align: right;
+  font-weight: lighter;
+}
+#text{
+ border: solid 5px white;
+ border-radius: 5px;
+ width: 353.03;
+ height: 143.69;
+ background-color: white;
+ overflow: hidden;
+}
+#buttons{
+  padding: 3% 0;
+}
+
+.btn-lg{
+  margin: 5px 0;
+  margin-right: 23px;
+  font-weight: bold;
+}
+
+
+.btn-sm{
+  width: 57px;
+  height: 60px;
+  margin-top: 18px;
+  margin-inline-end: 10px;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+/* all the right corner buttons 9,4, x^y */ 
+.rb{
+  margin-right: 0;
+}
